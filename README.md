@@ -8,7 +8,7 @@
 ```typescript
 let neonvoid: Dev = {
   currentFocus: [
-    "C++ and low level learning",
+    "Learning Rust",
     "Shader programming",
     "Godot"
   ],
@@ -17,9 +17,9 @@ let neonvoid: Dev = {
     "C#"
     "Lua", 
     "Python", 
-    "Typescript", 
+    "Typescript",
+    "Java"
   ],
-  frameworks: [React, Angular],
   tools: [Jest, Playwright, Terraform],
   setup: {
     os: "Arch",

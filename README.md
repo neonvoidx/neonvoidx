@@ -9,15 +9,14 @@
 let neonvoid: Dev = {
   currentFocus: [
     "Learning Rust",
-    "Shader programming",
-    "Godot"
   ],
   languages: [
+    "Typescript",
     "Bash", 
     "C#"
     "Lua", 
+    "VB.NET"
     "Python", 
-    "Typescript",
     "Java"
   ],
   tools: [Jest, Playwright, Terraform],
